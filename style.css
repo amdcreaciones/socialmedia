@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas Neue+Neue&display=swap');
 
 body {
 	margin: 0;
@@ -120,7 +120,7 @@ div {
 }
 
 .title-r, .title-s {
-	font-family: 'Bebas';
+	font-family: 'Bebas Neue';
 	font-size: 45px;
 	transition: 0.2s linear
 }
@@ -181,7 +181,7 @@ div {
 }
 
 .text {
-	font-family: 'Bebas';
+	font-family: 'Bebas Neue';
 	font-size: 40px;
 	color: #2d2d2d;
 }
@@ -206,7 +206,7 @@ div {
 }
 
 .data {
-	font-family: 'Bebas';
+	font-family: 'Bebas Neue';
 	font-size: 25px;
 	color: white;
 	transition: 0.1s linear;
